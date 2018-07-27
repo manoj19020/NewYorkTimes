@@ -1,0 +1,108 @@
+
+                                                       
+                                                   
+
+    
+
+                                           
+
+
+                 
+                                
+                                                                                
+           
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/item_people"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/spacing_huge"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:tag="layout/item_user_0"               
+        android:padding="@dimen/spacing_large"
+        app:cardElevation="5dp"  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/image_people"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:tag="binding_1"                        />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/spacing_small"
+                android:layout_toRightOf="@id/image_people"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/label_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/image_people"
+                    android:layout_gravity="center"
+                    android:tag="binding_2"                 
+                    android:textColor="#000000"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:lines="2"
+                    android:ellipsize="end"
+                    android:layout_marginStart="@dimen/spacing_large"
+                    android:layout_marginTop="@dimen/spacing_large"
+                    tools:ignore="RtlCompat"
+                    tools:text="" />
+
+                <TextView
+                    android:id="@+id/label_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/label_name"
+                    android:layout_gravity="center"
+                    android:ellipsize="end"
+                    android:layout_marginStart="@dimen/spacing_large"
+                    android:layout_marginTop="@dimen/spacing_large"
+                    android:tag="binding_3"             
+                    android:textColor="@android:color/secondary_text_light"
+                    android:textSize="15sp"
+                    tools:ignore="RtlCompat"
+                    tools:text="0729-256-147" />
+
+                <TextView
+                    android:id="@+id/label_mail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignStart="@+id/label_phone"
+                    android:layout_below="@+id/label_phone"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="@dimen/spacing_small"
+                    android:layout_marginStart="@dimen/spacing_large"
+                    android:tag="binding_4"              
+                    android:textColor="@android:color/secondary_text_light"
+                    android:textSize="15sp"
+                    tools:ignore="RtlCompat"
+
+                    tools:text="gary.allen@example.com" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+
+         

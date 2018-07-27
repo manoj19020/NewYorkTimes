@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\PracticeProjects\\MVVM\\NewYorkTimes\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\ashish.tamrakar\\.gradle\\caches\\transforms-1\\files-1.1\\rules-0.5.aar\\1f23c7b7f07d3d80d1837102cbde9307\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "229",
+                        "endColumns": "45",
+                        "endOffsets": "270"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}
