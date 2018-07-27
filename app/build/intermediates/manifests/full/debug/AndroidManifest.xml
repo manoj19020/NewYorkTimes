@@ -15,17 +15,16 @@
         android:value="25.3.1" />
 
     <application
-        android:name="com.universetelecom.mvvm_users.app.AppController"
+        android:name="com.universetelecom.times.app.AppController"
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme.NoActionBar" >
         <activity
-            android:name="com.universetelecom.mvvm_users.view.activity.ArticleListActivity"
+            android:name="com.universetelecom.times.view.activity.ArticleListActivity"
             android:launchMode="singleTop"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
@@ -35,8 +34,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.universetelecom.mvvm_users.view.activity.ArticleDetailActivity"
-            android:parentActivityName="com.universetelecom.mvvm_users.view.activity.ArticleListActivity" />
+            android:name="com.universetelecom.times.view.activity.ArticleDetailActivity"
+            android:parentActivityName="com.universetelecom.times.view.activity.ArticleListActivity" />
 
         <meta-data
             android:name="android.support.VERSION"

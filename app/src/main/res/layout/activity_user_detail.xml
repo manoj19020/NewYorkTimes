@@ -7,7 +7,7 @@
     <data>
         <variable
             name="userDetailViewModel"
-            type="com.universetelecom.mvvm_users.viewModel.UserDetailViewModel"/>
+            type="com.newyork.times.viewModel.UserDetailViewModel"/>
     </data>
 
     <android.support.design.widget.CoordinatorLayout

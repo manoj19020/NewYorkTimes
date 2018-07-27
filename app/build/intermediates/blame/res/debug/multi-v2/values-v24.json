@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\PracticeProjects\\MVVM\\NewYorkTimes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "D:\\MyProjects\\NewYorkTimes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ashish.tamrakar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9235b961b48a7a2129ba9aef34ccf5a7\\res\\values-v24\\values-v24.xml",

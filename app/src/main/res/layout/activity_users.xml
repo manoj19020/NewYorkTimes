@@ -3,7 +3,7 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.universetelecom.mvvmprojectwithrx.view.PeopleActivity">
+    tools:context="com.newyork.mvvmprojectwithrx.view.PeopleActivity">
 
 
     <data>
@@ -12,7 +12,7 @@
 
         <variable
             name="userViewModel"
-            type="com.universetelecom.mvvm_users.viewModel.UserViewModel" />
+            type="com.newyork.times.viewModel.UserViewModel" />
     </data>
 
     <android.support.v4.widget.DrawerLayout

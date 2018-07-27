@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\PracticeProjects\\MVVM\\NewYorkTimes\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "outputFile": "D:\\MyProjects\\NewYorkTimes\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\ashish.tamrakar\\.gradle\\caches\\transforms-1\\files-1.1\\rules-0.5.aar\\1f23c7b7f07d3d80d1837102cbde9307\\res\\values\\values.xml",

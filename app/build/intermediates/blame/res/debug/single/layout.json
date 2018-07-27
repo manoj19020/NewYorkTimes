@@ -1,14 +1,14 @@
 [
     {
-        "merged": "D:\\PracticeProjects\\MVVM\\NewYorkTimes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_detail.xml",
-        "source": "D:\\PracticeProjects\\MVVM\\NewYorkTimes\\app\\src\\main\\res\\layout\\activity_user_detail.xml"
+        "merged": "D:\\MyProjects\\NewYorkTimes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_user.xml",
+        "source": "D:\\MyProjects\\NewYorkTimes\\app\\src\\main\\res\\layout\\item_user.xml"
     },
     {
-        "merged": "D:\\PracticeProjects\\MVVM\\NewYorkTimes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_users.xml",
-        "source": "D:\\PracticeProjects\\MVVM\\NewYorkTimes\\app\\src\\main\\res\\layout\\activity_users.xml"
+        "merged": "D:\\MyProjects\\NewYorkTimes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_users.xml",
+        "source": "D:\\MyProjects\\NewYorkTimes\\app\\src\\main\\res\\layout\\activity_users.xml"
     },
     {
-        "merged": "D:\\PracticeProjects\\MVVM\\NewYorkTimes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_user.xml",
-        "source": "D:\\PracticeProjects\\MVVM\\NewYorkTimes\\app\\src\\main\\res\\layout\\item_user.xml"
+        "merged": "D:\\MyProjects\\NewYorkTimes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_detail.xml",
+        "source": "D:\\MyProjects\\NewYorkTimes\\app\\src\\main\\res\\layout\\activity_user_detail.xml"
     }
 ]

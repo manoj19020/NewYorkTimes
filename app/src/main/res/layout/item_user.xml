@@ -9,7 +9,7 @@
 
         <variable
             name="userViewModel"
-            type="com.universetelecom.mvvm_users.viewModel.ItemUserViewModel" />
+            type="com.newyork.times.viewModel.ItemUserViewModel" />
     </data>
 
 
